@@ -1,4 +1,4 @@
-# Afil Games Test - Gonzalez Joaquin
+# Afil Games Test - Gonzalez Aldea Joaquin
 
  Game Menu - GameMaker
 ![ScreenShoot](readmeImg/BanerLinkedin.png)
