@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_loopmusic",
+  "audioGroupId":{
+    "name":"background_sounds",
+    "path":"audiogroups/background_sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":244.14668,
+  "name":"snd_loopmusic",
+  "parent":{
+    "name":"Sonidos",
+    "path":"folders/Sonidos.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_loopmusic.wav",
+  "type":0,
+  "volume":0.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_buttonsound",
+  "audioGroupId":{
+    "name":"snd_efects",
+    "path":"audiogroups/snd_efects",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.456463,
+  "name":"snd_buttonsound",
+  "parent":{
+    "name":"Sonidos",
+    "path":"folders/Sonidos.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_buttonsound.wav",
+  "type":0,
+  "volume":1.0,
+}
